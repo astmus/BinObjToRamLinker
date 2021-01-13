@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="BOToRamLinker.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="RamDisk" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">R:</Value>
+    </Setting>
+    <Setting Name="Exclude" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">MeterShop.csproj;_Framework;_Assemblies</Value>
+    </Setting>
+    <Setting Name="SolutionsDirectory" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">D:\Programming\MeterShop</Value>
+    </Setting>
+    <Setting Name="WatchOnlyNewDirectories" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
